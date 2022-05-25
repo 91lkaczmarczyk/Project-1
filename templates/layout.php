@@ -5,11 +5,13 @@
   <meta charset="utf-8">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
   <link href="/public/style.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
 </head>
 
 <body class="body">
   <div class="wrapper">
     <div class="header">
+      
       <h1><i class="far fa-clipboard"></i>Moje notatki</h1>
     </div>
 
